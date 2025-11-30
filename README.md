@@ -420,7 +420,7 @@ EmpowerHer/
 
 ---
 
-### 🚀 Taibat
+### 🚀 Taibat Raheem
 **Role**: API Integration & DevOps Specialist
 
 **Responsibilities**:
@@ -444,7 +444,7 @@ EmpowerHer/
 
 ---
 
-### 🛠️ Nelson 
+### 🛠️ Nelson Njihia
 **Role**: Lead Backend Developer
 
 **Responsibilities**:
